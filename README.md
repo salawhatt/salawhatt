@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Hello, my name is Salavat 👋</h2>
+# Hello, my name is Salavat 👋</h2>
 I am cybersecurity student from Russia 🇷🇺
 ## About me 💬
 I am 22 year old 
