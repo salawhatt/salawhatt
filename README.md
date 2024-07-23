@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hеllo, my name is Salavat 👋
 
-<!--
-**salawhatt/salawhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am cybersecurity student from Russia 🇷🇺
+## About me 💬
+I am 22 year old 
+I am interested in Python developing, networks, C/C++ 
+Now I am in my 4th (and last) year at university 🏆
+## Skills 📚
+- Python;
+- C/C++;
+- Cisco;
+- GIT;
+- IDA.
+## Education 🎓
+- Peter the Great St. Petersburg Polytechnic University, Institute for Cyber Security and Information Protection, Information security of automated systems (2019 - 2024).
