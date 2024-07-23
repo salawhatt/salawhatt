@@ -1,6 +1,6 @@
-## Hеllo, my name is Salavat 👋
+  ## Hеllo, my name is Salavat 👋
 
-I am cybersecurity student from Russia 🇷🇺
+  I am cybersecurity student from Russia 🇷🇺
 ## About me 💬
 I am 22 year old 
 I am interested in Python developing, networks, C/C++ 
